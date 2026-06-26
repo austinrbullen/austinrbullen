@@ -39,6 +39,6 @@ I'm Austin, a Computer Science student at Brigham Young University–Idaho passi
 
 ## Let's Connect!
 
-* 💼 LinkedIn: *[(Add your LinkedIn URL here)](https://www.linkedin.com/in/austin-bullen/)*
+* 💼 LinkedIn: *[(Click Here)](https://www.linkedin.com/in/austin-bullen/)*
 
 Feel free to explore my repositories, check out what I'm building, and don't hesitate to reach out. Happy coding! 🚀
